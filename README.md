@@ -1,3 +1,5 @@
+# Instagram_subscibe_monitoring_tool
+
 Ce script permet de surveiller vos abonnés et abonnements sur Instagram en analysant vos données exportées.
 
 Prérequis
@@ -33,3 +35,5 @@ Cliquez sur Commencer l’exportation.
 Vous recevrez un e-mail dans quelques minutes avec un lien pour télécharger vos données.
 
 Téléchargez le fichier et décompressez-le pour obtenir le dossier contenant vos fichiers JSON.
+
+Puis mettre le dossier ainsi obtenu dans le dossier concernant le script.
