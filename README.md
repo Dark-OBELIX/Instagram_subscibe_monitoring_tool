@@ -37,4 +37,5 @@ Accès à l’adresse e-mail associée à votre compte Instagram.
   - Téléchargez le fichier et décompressez-le pour obtenir le dossier contenant vos fichiers JSON.
 
 4- Puis mettre le dossier ainsi obtenu dans le dossier concernant le script.
+
 5- Lancer le script
