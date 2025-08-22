@@ -8,32 +8,33 @@ Accès à votre compte Instagram (identifiant et mot de passe).
 
 Accès à l’adresse e-mail associée à votre compte Instagram.
 
-Étapes pour récupérer vos données Instagram
+1- Étapes pour récupérer vos données Instagram
 
-Accédez à Instagram depuis un ordinateur (version navigateur).
+  - Accédez à Instagram depuis un ordinateur (version navigateur).
 
-Cliquez en bas à gauche sur Plus → Paramètres.
+  - Cliquez en bas à gauche sur Plus → Paramètres.
 
-Dans les paramètres, allez dans Espaces comptes (en haut à gauche).
+  - Dans les paramètres, allez dans Espaces comptes (en haut à gauche).
 
-Cliquez sur Vos informations et autorisations.
+  - Cliquez sur Vos informations et autorisations.
 
-Sélectionnez Exporter vos informations.
+  - Sélectionnez Exporter vos informations.
 
-Cliquez sur Créer une exportation :
+2- Cliquez sur Créer une exportation :
 
-Choisissez votre profil Instagram.
+  - Choisissez votre profil Instagram.
 
-Sélectionnez Exporter sur mon appareil.
+  - Sélectionnez Exporter sur mon appareil.
 
-Pour Période, choisissez Depuis le début.
+  - Pour Période, choisissez Depuis le début.
 
-Pour Format, choisissez JSON.
+  - Pour Format, choisissez JSON.
 
-Cliquez sur Commencer l’exportation.
+  - Cliquez sur Commencer l’exportation.
 
-Vous recevrez un e-mail dans quelques minutes avec un lien pour télécharger vos données.
+3- Vous recevrez un e-mail dans quelques minutes avec un lien pour télécharger vos données.
 
-Téléchargez le fichier et décompressez-le pour obtenir le dossier contenant vos fichiers JSON.
+  - Téléchargez le fichier et décompressez-le pour obtenir le dossier contenant vos fichiers JSON.
 
-Puis mettre le dossier ainsi obtenu dans le dossier concernant le script.
+4- Puis mettre le dossier ainsi obtenu dans le dossier concernant le script.
+5- Lancer le script
